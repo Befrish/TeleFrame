@@ -80,3 +80,5 @@ audiofiles/*
 !audiofiles/.gitkeep
 
 *.DS_Store
+
+.idea/
