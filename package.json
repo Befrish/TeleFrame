@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukeSkywalker92/teleframe.git"
+    "url": "git+https://github.com/Befrish/teleframe.git"
   },
   "author": "Lukas Scheffler",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LukeSkywalker92/teleframe/issues"
+    "url": "https://github.com/Befrish/teleframe/issues"
   },
-  "homepage": "https://github.com/LukeSkywalker92/teleframe#readme",
+  "homepage": "https://github.com/Befrish/teleframe#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
     "chroma-js": "^2.4.2",
